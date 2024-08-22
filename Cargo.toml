@@ -1,0 +1,10 @@
+[package]
+name = "advent-of-code-2023-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name = "advent-of-code-2023-rust"
+path = "src/main.rs"
